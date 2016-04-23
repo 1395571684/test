@@ -20,5 +20,6 @@ public class TestString {
 			start=str.indexOf(check,start)+check.length();
 		}
 		System.out.println(check+"在"+str+"中出现的次数为"+count+"次");
+		//
 	}
 }
